@@ -79,7 +79,8 @@
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=quynh232000&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=quynh232000&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
 </p>
 
-<img src="svg/quynh-quotes.svg" width="600" alt="quynh-official" />
+<img src="svg/quynh-quotes.svg" stype="width:100%" alt="quynh-official" />

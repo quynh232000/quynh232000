@@ -1,12 +1,15 @@
 <!-- minhtrungdev -->
 <p align="center">
-  <a href="https://minhtrung.site" target="_blank">
-    <img src="svg/minhtrungdev.svg" width="600" alt="minhtrungdev-official" />
+  <a href="https://mr-quynh.com" target="_blank">
+    <img src="svg/quynh.svg" width="600" alt="quynhdev-official" />
   </a>
 </p>
 
 <p align="center">
-  📫 Contact me: <strong>minhtrung4367@gmail.com</strong>
+  📫 Contact me: <strong>quynh232000@gmail.com</strong>
+</p>
+<p align="center">
+  📫 Phone: <strong>0358723520</strong>
 </p>
 
 ---
@@ -51,7 +54,7 @@
 
 ## 💡 About Me
 
-🔸 Với **2 năm kinh nghiệm làm việc với PHP và Laravel**, tôi có thể:
+🔸 Với **kinh nghiệm làm việc với PHP và Laravel**, tôi có thể:
 - Xây dựng hệ thống **backend** mạnh mẽ.
 - Thiết kế và phát triển **RESTful API** với Laravel.
 - Xây dựng kiến trúc **Microservices** với Lumen.

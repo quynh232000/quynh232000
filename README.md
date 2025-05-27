@@ -1,7 +1,7 @@
-<!-- minhtrungdev -->
+<!-- mrquynh -->
 <p align="center">
   <a href="https://mr-quynh.com" target="_blank">
-    <img src="svg/quynh.svg" width="600" alt="quynhdev-official" />
+    <img src="svg/quynh.svg" style="width:100%" alt="quynhdev-official" />
   </a>
 </p>
 

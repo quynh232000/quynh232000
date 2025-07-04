@@ -82,3 +82,5 @@
  <a href="https://www.facebook.com/quynh232000/" target="_blank">
     <img src="https://res.cloudinary.com/dkj9bf0d3/image/upload/v1751535425/github-contribution-grid-snake_otz3ml.svg" />
   </a>
+  ![Snake](https://raw.githubusercontent.com/quynh232000/quynh232000/output/github-contribution-grid-snake.svg?palette=github-dark)
+

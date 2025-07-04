@@ -79,6 +79,6 @@
 </p>
 
 <img src="svg/quynh-quotes.svg" stype="width:100%" alt="quynh-official" />
- ![Snake animation](https://raw.githubusercontent.com/quynh232000/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/quynh232000/snk/output/github-contribution-grid-snake.svg" stype="width:100%" alt="quynh-official" />
 
 

@@ -79,8 +79,6 @@
 </p>
 
 <img src="svg/quynh-quotes.svg" stype="width:100%" alt="quynh-official" />
- <a href="https://www.facebook.com/quynh232000/" target="_blank">
-    <img src="https://raw.githubusercontent.com/quynh232000/quynh232000/output/github-contribution-grid-snake.svg?palette=github-dark" />
-    
-  </a>
+ ![Snake animation](https://raw.githubusercontent.com/quynh232000/snk/output/github-contribution-grid-snake.svg)
+
 
